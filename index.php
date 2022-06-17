@@ -1,1 +1,1 @@
-<?php include_once("Dataviz-Project.html"); ?>
+<?php include_once("index.html"); ?>
